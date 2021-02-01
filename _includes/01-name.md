@@ -1,1 +1,8 @@
-Replace this with your name, and include a header.
+# Kojiro's Todo
+
+## やることリスト
+
+- [ ] ザナルカンドを弾く
+- [ ] Lispで使えるコードを書けるようになる
+- [ ] 見栄えのよいレイアウトを作れるようになる
+- [ ] 速く、キレイなコードを書けるようにする
